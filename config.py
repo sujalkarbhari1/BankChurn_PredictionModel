@@ -1,2 +1,2 @@
 class Config:
-    filepath="data/raw/Churn_Modelling.csv"
+    filepath=r"C:\BankChurn_PredictionModel\data\raw\Churn_Modelling.csv"
